@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeIcon"
+        android:icon="@drawable/home_icon"
+        android:title="Home">
+    </item>
+
+    <item
+        android:id="@+id/favIcon"
+        android:icon="@drawable/fav_icon"
+        android:title="Favourites">
+    </item>
+
+    <item
+        android:id="@+id/addRecipeIcon"
+        android:icon="@drawable/add_icon"
+        android:title="New Recipe">
+    </item>
+
+    <item
+        android:id="@+id/listIcon"
+        android:icon="@drawable/shopping_list_icon"
+        android:title="Shopping List">
+    </item>
+
+    <item
+        android:id="@+id/scannerIcon"
+        android:icon="@drawable/scanner_icon"
+        android:title="Barcode Scanner">
+    </item>
+
+</menu>

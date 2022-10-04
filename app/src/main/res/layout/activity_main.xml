@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/navigation"
+        app:menu="@menu/menu_bar"
+        app:itemTextColor="@drawable/item_color"
+        app:itemIconTint="@drawable/item_color"
+        android:background="@drawable/sahpe"
+        android:layout_alignParentBottom="true">
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+    <VideoView
+        android:id="@+id/backgroundVideo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:foregroundGravity="center">
+    </VideoView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hunger auf was neues! Dann los gehts mit dem Rezepte suchen!"
+        android:textAlignment="center"
+        android:textSize="45sp"
+        android:textColor="#ACA492"
+        android:layout_centerInParent="true">
+
+    </TextView>
+
+
+</RelativeLayout>

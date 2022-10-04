@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecipEasy</string>
+    <string name="search_recipe">Suche dein Rezept</string>
+</resources>

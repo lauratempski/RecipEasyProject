@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/temps/AndroidStudioProjects/RecipEasy/app/src/main/res/drawable/item_color.xml" value="0.156" />
+        <entry key="..\:/Users/temps/AndroidStudioProjects/RecipEasy/app/src/main/res/drawable/sahpe.xml" value="0.156" />
+        <entry key="..\:/Users/temps/AndroidStudioProjects/RecipEasy/app/src/main/res/drawable/shopping_list_icon.xml" value="0.156" />
+        <entry key="..\:/Users/temps/AndroidStudioProjects/RecipEasy/app/src/main/res/layout/activity_main.xml" value="0.265625" />
+        <entry key="..\:/Users/temps/AndroidStudioProjects/RecipEasy/app/src/main/res/layout/activity_shoppig_list.xml" value="0.2796875" />
+        <entry key="..\:/Users/temps/AndroidStudioProjects/RecipEasy/app/src/main/res/layout/list_row.xml" value="0.2796875" />
+        <entry key="..\:/Users/temps/AndroidStudioProjects/RecipEasy/app/src/main/res/menu/menu_bar.xml" value="0.209765625" />
+        <entry key="..\:/Users/temps/Downloads/RecipEasy-master (2)/RecipEasy-master/app/src/main/res/layout/activity_add_recipe.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/temps/Downloads/RecipEasy-master (2)/RecipEasy-master/app/src/main/res/layout/activity_backgorund.xml" value="0.284375" />
+        <entry key="..\:/Users/temps/Downloads/RecipEasy-master (2)/RecipEasy-master/app/src/main/res/layout/activity_bar_code_scanner.xml" value="0.33" />
+        <entry key="..\:/Users/temps/Downloads/RecipEasy-master (2)/RecipEasy-master/app/src/main/res/layout/activity_favourites.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/temps/Downloads/RecipEasy-master (2)/RecipEasy-master/app/src/main/res/layout/activity_home.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/temps/Downloads/RecipEasy-master (2)/RecipEasy-master/app/src/main/res/layout/activity_main.xml" value="0.284375" />
+        <entry key="..\:/Users/temps/Downloads/RecipEasy-master (2)/RecipEasy-master/app/src/main/res/layout/activity_shoppig_list.xml" value="0.284375" />
+        <entry key="..\:/Users/temps/Downloads/RecipEasy-master (2)/RecipEasy-master/app/src/main/res/layout/add_recipe.xml" value="0.33" />
+        <entry key="..\:/Users/temps/Downloads/RecipEasy-master (2)/RecipEasy-master/app/src/main/res/layout/favourite_list.xml" value="0.284375" />
+        <entry key="..\:/Users/temps/Downloads/RecipEasy-master (2)/RecipEasy-master/app/src/main/res/layout/home_layout.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/temps/Downloads/RecipEasy-master (2)/RecipEasy-master/app/src/main/res/layout/scan_barcode.xml" value="0.284375" />
+        <entry key="..\:/Users/temps/Downloads/RecipEasy-master (2)/RecipEasy-master/app/src/main/res/menu/menu_bar.xml" value="0.284375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
